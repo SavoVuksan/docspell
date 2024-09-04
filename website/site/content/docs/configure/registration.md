@@ -15,7 +15,7 @@ options:
 - *open* new users can sign up
 - *invite* new users can sign up but require an invitation key
 
-This applies only to the REST sevrer component.
+This applies only to the REST server component.
 
 ``` bash
 docspell.server.backend.signup {
